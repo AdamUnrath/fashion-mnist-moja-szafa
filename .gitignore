@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Duże pliki wynikowe (modele trzymaj poza repozytorium albo dodaj świadomie)
+wyniki/*.keras
+wyniki/*.h5
+
+# Zdjęcia prywatne: dodawaj do repozytorium tylko te, które chcesz publikować
